@@ -1,0 +1,17 @@
+.field {
+  width: 330px;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      padding: 15px;
+      background: #fff;
+      border: 1px solid #f1f1f1;
+      margin-top: 12px;
+      cursor: pointer;
+    }
+  }
+}
